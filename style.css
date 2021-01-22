@@ -1,0 +1,85 @@
+
+body{
+    background: #e43a15;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #e65245, #e43a15);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #e65245, #e43a15); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-attachment: fixed;
+    font-family: "ubuntu";
+
+}
+
+.greetings{
+    background-color: white;
+    color: #e43a15;
+}
+
+.greetings h2{
+    font-weight: 700;
+
+}
+
+.greetings img{
+    width: 90px;
+}
+
+.button_Primary{
+    background: #e43a15;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #e65245, #e43a15);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #e65245, #e43a15); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-attachment: fixed;
+    font-family: "ubuntu";
+    color: white;
+}
+
+.main_Div{
+    background: white;
+    padding: 10px;
+    margin-top: 15px;
+    border: 5px solid #e43a15;
+   
+    
+    
+    
+}
+
+#result,#camera{
+    width: 310px;
+    height: 300px;
+    border: 2px solid #e65245;
+    
+    
+}
+
+.main_Div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 15px white;
+    
+}
+
+.main_Div label{
+    background: #e43a15;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #e65245, #e43a15);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #e65245, #e43a15); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-attachment: fixed;
+    color: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+
+}
+
+.footer_div{
+    margin-bottom: 50px;
+}
+
+.footer_div h4{
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.footer_div img{
+    width: 70px;
+}
+
